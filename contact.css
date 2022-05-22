@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.contact-section {
+  background: url("img/contact-bg.jpg");
+  background-size: cover;
+  background-color: rgb(244, 80, 104);
+}
+.section-heading {
+  text-align: center;
+  font-family: "baloo-bhai";
+  color: #a35e5e;
+  margin: 20px 20px;
+  text-transform: capitalize;
+  font-size: 48px;
+}
+.section-p {
+  text-align: center;
+  font-family: "baloo-bhai";
+  color: #a35e5e;
+  margin: 20px 20px;
+  text-transform: capitalize;
+}
+.tag{
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    text-decoration: none;
+    color: #a35e5e;
+    margin: 13px;
+    padding: 10px;
+}
